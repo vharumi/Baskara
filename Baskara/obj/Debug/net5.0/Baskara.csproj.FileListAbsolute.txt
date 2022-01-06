@@ -1,0 +1,15 @@
+/Users/vharumi/Documents/Cursos/aula/Baskara/bin/Debug/net5.0/Baskara.deps.json
+/Users/vharumi/Documents/Cursos/aula/Baskara/bin/Debug/net5.0/Baskara.runtimeconfig.json
+/Users/vharumi/Documents/Cursos/aula/Baskara/bin/Debug/net5.0/Baskara.runtimeconfig.dev.json
+/Users/vharumi/Documents/Cursos/aula/Baskara/bin/Debug/net5.0/Baskara.dll
+/Users/vharumi/Documents/Cursos/aula/Baskara/bin/Debug/net5.0/ref/Baskara.dll
+/Users/vharumi/Documents/Cursos/aula/Baskara/bin/Debug/net5.0/Baskara.pdb
+/Users/vharumi/Documents/Cursos/aula/Baskara/obj/Debug/net5.0/Baskara.csproj.AssemblyReference.cache
+/Users/vharumi/Documents/Cursos/aula/Baskara/obj/Debug/net5.0/Baskara.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vharumi/Documents/Cursos/aula/Baskara/obj/Debug/net5.0/Baskara.AssemblyInfoInputs.cache
+/Users/vharumi/Documents/Cursos/aula/Baskara/obj/Debug/net5.0/Baskara.AssemblyInfo.cs
+/Users/vharumi/Documents/Cursos/aula/Baskara/obj/Debug/net5.0/Baskara.csproj.CoreCompileInputs.cache
+/Users/vharumi/Documents/Cursos/aula/Baskara/obj/Debug/net5.0/Baskara.dll
+/Users/vharumi/Documents/Cursos/aula/Baskara/obj/Debug/net5.0/ref/Baskara.dll
+/Users/vharumi/Documents/Cursos/aula/Baskara/obj/Debug/net5.0/Baskara.pdb
+/Users/vharumi/Documents/Cursos/aula/Baskara/obj/Debug/net5.0/Baskara.genruntimeconfig.cache
